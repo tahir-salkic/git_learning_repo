@@ -24,8 +24,19 @@ By the end of the workshop you will have learned to track changes, collaborate o
 - A GitHub account
 
 ## Guest Book
+<<<<<<< HEAD
 
 - James
 - Tahir
 - Naina Baghel
 - Kaitlin
+=======
+- [Fionnghuala]
+
+
+
+
+
+
+
+>>>>>>> dev-readme-fr
