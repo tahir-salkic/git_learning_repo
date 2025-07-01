@@ -24,6 +24,20 @@ By the end of the workshop you will have learned to track changes, collaborate o
 - A GitHub account
 
 ## Guest Book
+
 - Ryan Shortt
+- Rohan Sabherwal
+- James
+- Tahir
+- Naina Baghel
+- Kaitlin
+- Fionnghuala
+
+
+
+
+
+
+
 
 
