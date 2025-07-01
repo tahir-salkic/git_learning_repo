@@ -31,7 +31,7 @@ By the end of the workshop you will have learned to track changes, collaborate o
 - Naina Baghel
 - Kaitlin
 =======
-- [Fionnghuala]
+- Fionnghuala
 
 
 
@@ -39,4 +39,4 @@ By the end of the workshop you will have learned to track changes, collaborate o
 
 
 
->>>>>>> dev-readme-fr
+
