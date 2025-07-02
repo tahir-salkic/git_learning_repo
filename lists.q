@@ -10,7 +10,7 @@ thirdA:a[2]
 countB:count b
 typeC: type c
 
-m:((a);(b);(c))
+m:(a;b;c)
 
 thirdM:m[2]
 thirdSecondM:m[1;2]
