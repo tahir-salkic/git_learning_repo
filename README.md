@@ -25,8 +25,7 @@ By the end of the workshop you will have learned to track changes, collaborate o
 
 ## Guest Book
 
-<<<<<<< HEAD
-=======
+
 - Aaron Doherty
 - Ryan Shortt
 - Rohan Sabherwal
@@ -36,17 +35,3 @@ By the end of the workshop you will have learned to track changes, collaborate o
 - Kaitlin
 - Fionnghuala
 - Klaudia
->>>>>>> origin/main
-
-
-
-
-
-
-
-
-<<<<<<< HEAD
-- Klaudia
-=======
->>>>>>> origin/main
-
