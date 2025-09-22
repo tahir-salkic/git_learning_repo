@@ -28,7 +28,7 @@ By the end of the workshop you will have learned to track changes, collaborate o
 - Ryan Shortt
 - Rohan Sabherwal
 - James
-- Tahir x 2
+- Tahir
 - Naina Baghel
 - Kaitlin
 - Fionnghuala
